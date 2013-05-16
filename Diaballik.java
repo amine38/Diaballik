@@ -2,7 +2,6 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package diaballik;
 
 /**
  *
@@ -21,10 +20,9 @@ public class Diaballik {
         p3 = new Plateau(Plateau.variante);
         p4 = new Plateau(8,8,0);
         p1.Afficher();
-		
         p2.Afficher();
         p3.Afficher();
         p4.Afficher();
         
-    }
+    }/*test*/
 }
